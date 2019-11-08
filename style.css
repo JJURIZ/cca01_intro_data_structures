@@ -1,0 +1,31 @@
+body {
+    background-color: #f2c300
+}
+
+body, h1, h2, p {
+    font-family: 'Raleway', sans-serif;
+
+}
+
+#name-text, #type-text, #year-text {
+    padding: 4px;
+    margin: 4px;
+    border: 4px;
+}
+
+.data-label {
+    padding: 5px;
+    margin: 5px;
+    border: 5px;
+}
+
+#add-button, #clear-button {
+    padding: 5px;
+    margin: 5px;
+    border: 5px;
+    background-color: white;
+    border-color: #0099f6;
+    border-style: solid;
+    border-width: 2px;
+    font-size: 1rem;
+}
